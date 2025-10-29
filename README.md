@@ -6,7 +6,7 @@ It displays the book cover, title, author, and published year with a clean and r
 ## Technologies Used
 
 React for frontend development
-Tailwind CSS for styling
+Plain CSS for styling
 Open Library API for book data
 
 ## How to Run
